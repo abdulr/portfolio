@@ -100,3 +100,8 @@ testing
     opacity: 0.3;
   }
   
+  /** Hover color on portfolio tiles **/
+
+  #bicycle .portfolio-item .portfolio-link .portfolio-hover {
+    background: #ffc800;
+  }
