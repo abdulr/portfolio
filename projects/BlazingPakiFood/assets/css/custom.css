@@ -1,0 +1,16 @@
+#banner {
+    background-image: url("images/overlay.png"), url("../../images/multiple_dishes.jpg");
+}
+
+#header h1 a {
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    color: #1E90FF;    
+}
+
+/** CTA **/
+
+#cta {
+    background: #898989;
+}
